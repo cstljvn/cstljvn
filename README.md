@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**cstljvn/cstljvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Fun fact: I studied Philosophy and currently studying Computer Engineering. I would like to start with the fun fact.
 
-Here are some ideas to get you started:
+"Making sense of the senseless with Philosophy while making the senseless (codes) make sense in Computer Engineering."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 I’m currently working on learning
+
+🌱 I’m currently learning Java, Python, C++, VBA, SQL, Gen AI
+
+👯 I’m looking to collaborate on VBA projects and simple Python coding
+
+🤔 I’m looking for help with SQL, VBA
+
+💬 Ask me about things I would like to learn about. I don't have much knowledge to share as of the moment.
+
+📫 How to reach me: here
+
+
+
